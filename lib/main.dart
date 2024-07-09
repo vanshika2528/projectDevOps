@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       locale: Get.deviceLocale,
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        appBarTheme: AppBarTheme(color: Colors.indigo),
+        appBarTheme: AppBarTheme(color: const Color.fromARGB(255, 82, 101, 208)),
       ),
       home: Home(),
       routes: {

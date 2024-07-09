@@ -12,7 +12,7 @@ class Test extends StatelessWidget {
         color: Colors.black,
         child: Center(
           child: Text(
-            "justtesting".tr,
+            "just testing".tr,
             style: TextStyle(
               color: Colors.white,
               fontSize: 30,
